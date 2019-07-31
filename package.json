@@ -1,0 +1,22 @@
+{
+  "name": "coding-challenges",
+  "version": "1.0.0",
+  "description": "Check out all of the coding challenges I've created.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neilyonzon/CodingChallenges.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neilyonzon/CodingChallenges/issues"
+  },
+  "homepage": "https://github.com/neilyonzon/CodingChallenges#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
