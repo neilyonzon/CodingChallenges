@@ -21,3 +21,14 @@ test("Selection sorts the array [2,0,1,4,5,3]", () => {
     5
   ]);
 });
+
+test("Insertion sorts the array [13,0,2,1,6,300]", () => {
+  expect(sortingAlgorithms.insertSort([13, 0, 2, 1, 6, 300])).toEqual([
+    0,
+    1,
+    2,
+    6,
+    13,
+    300
+  ]);
+});
